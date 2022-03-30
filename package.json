@@ -18,12 +18,10 @@
     "mongoose": "^6.2.4"
   },
   "devDependencies": {
-  "description": ""
+    "description": ""
   },
-  "engines":{
-    "node":"12.22.7",
-    "npm":"8.3.1"
+  "engines": {
+    "node": "12.22.7",
+    "npm": "8.3.1"
   }
 }
-
-
